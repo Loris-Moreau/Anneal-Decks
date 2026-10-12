@@ -1,0 +1,17 @@
+name: Deck request
+description: Ask for a deck to be generated from a Wikipedia page.
+title: "[deck] "
+labels: ["deck-request"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: English Wikipedia page title
+      placeholder: Kinetic energy
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What do you want to understand?
+      description: One or two sentences. Helps choose which sections matter.

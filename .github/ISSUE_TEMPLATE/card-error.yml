@@ -1,0 +1,38 @@
+name: Card error
+description: A card is wrong, misleading, leaks its answer, or is not worth learning.
+title: "[card] "
+labels: ["card-error"]
+body:
+  - type: input
+    id: deck
+    attributes:
+      label: Deck id
+      placeholder: wiki-kinetic-energy
+    validations:
+      required: true
+  - type: input
+    id: card
+    attributes:
+      label: Card id
+      placeholder: c_0123456789abcdef
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Wrong answer
+        - Answer leaked in the prompt
+        - Ambiguous prompt
+        - Trivia, not worth learning
+        - Typo
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and suggested fix
+    validations:
+      required: true
