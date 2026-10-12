@@ -1,0 +1,25 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Kinetic_energy",
+      "title": "Kinetic energy",
+      "prerequisites": [
+        "wiki:Physics",
+        "wiki:Energy",
+        "wiki:Motion_(physics)",
+        "wiki:Classical_mechanics",
+        "wiki:Mass",
+        "wiki:Speed",
+        "wiki:Work_(physics)",
+        "wiki:Rest_(physics)"
+      ]
+    },
+    {
+      "id": "wiki:Kinetic_energy#Kinetic_energy_for_non-relativistic_velocity",
+      "title": "Kinetic energy: Kinetic energy for non-relativistic velocity",
+      "prerequisites": [
+        "wiki:Kinetic_energy"
+      ]
+    }
+  ]
+}

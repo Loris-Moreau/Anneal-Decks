@@ -1,0 +1,14 @@
+{
+  "id": "wiki-kinetic-energy",
+  "title": "Kinetic energy (Wikipedia)",
+  "source": {
+    "kind": "wikipedia",
+    "ref": "Kinetic energy",
+    "revision": "1370969006"
+  },
+  "license": "CC-BY-SA-4.0",
+  "localOnly": false,
+  "language": "en",
+  "pipelineVersion": "wiki-prepass-0.1",
+  "sha256": "3c5414a07c80272fde33ba78fa06a1861ef25e34af5c5744069cae6790565f82"
+}
