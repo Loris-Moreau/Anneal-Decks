@@ -1,0 +1,18 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Monte_Carlo_algorithm",
+      "title": "Monte Carlo algorithm",
+      "prerequisites": [
+        "wiki:Computing",
+        "wiki:Randomized_algorithm",
+        "wiki:Probability",
+        "wiki:Karger's_algorithm",
+        "wiki:Minimum_feedback_arc_set",
+        "wiki:Monte_Carlo_Casino",
+        "wiki:Monaco",
+        "wiki:Nicholas_Metropolis"
+      ]
+    }
+  ]
+}

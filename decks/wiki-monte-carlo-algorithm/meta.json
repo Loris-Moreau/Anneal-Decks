@@ -1,0 +1,14 @@
+{
+  "id": "wiki-monte-carlo-algorithm",
+  "title": "Monte Carlo algorithm (Wikipedia)",
+  "source": {
+    "kind": "wikipedia",
+    "ref": "Monte Carlo algorithm",
+    "revision": "1335550017"
+  },
+  "license": "CC-BY-SA-4.0",
+  "localOnly": false,
+  "language": "en",
+  "pipelineVersion": "wiki-prepass-0.1",
+  "sha256": "e6a790da64f1a991388ff29df6acbe2dd82d22b8a795dfe57bdf0b44d92776ad"
+}
