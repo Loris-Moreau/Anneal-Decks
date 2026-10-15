@@ -34,6 +34,23 @@
       "bytes": 2189,
       "sha256": "e6a790da64f1a991388ff29df6acbe2dd82d22b8a795dfe57bdf0b44d92776ad",
       "path": "decks/wiki-monte-carlo-algorithm"
+    },
+    {
+      "id": "wiki-photosynthesis",
+      "title": "Photosynthesis (Wikipedia)",
+      "source": {
+        "kind": "wikipedia",
+        "ref": "Photosynthesis",
+        "revision": "1379238357"
+      },
+      "license": "CC-BY-SA-4.0",
+      "language": "en",
+      "pipelineVersion": "wiki-prepass-0.1+llm",
+      "cardCount": 45,
+      "conceptCount": 7,
+      "bytes": 32415,
+      "sha256": "2a1d65bd739bf15d50bbd5b58a0d01221014edc9f769ee1d67a67689ebb6fef9",
+      "path": "decks/wiki-photosynthesis"
     }
   ]
 }
