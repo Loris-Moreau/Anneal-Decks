@@ -1,0 +1,18 @@
+{
+  "id": "wiki-photosynthesis",
+  "title": "Photosynthesis (Wikipedia)",
+  "source": {
+    "kind": "wikipedia",
+    "ref": "Photosynthesis",
+    "revision": "1379238357"
+  },
+  "license": "CC-BY-SA-4.0",
+  "localOnly": false,
+  "language": "en",
+  "pipelineVersion": "wiki-prepass-0.1+llm",
+  "generation": {
+    "model": "gemini-3.5-flash-lite",
+    "promptVersion": "rubric-cards-1"
+  },
+  "sha256": "2a1d65bd739bf15d50bbd5b58a0d01221014edc9f769ee1d67a67689ebb6fef9"
+}

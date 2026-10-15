@@ -1,0 +1,60 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Photosynthesis",
+      "title": "Photosynthesis",
+      "prerequisites": [
+        "wiki:Biological_system",
+        "wiki:Biological_process",
+        "wiki:Photopigment",
+        "wiki:Autotroph",
+        "wiki:Organism",
+        "wiki:Plant",
+        "wiki:Algae",
+        "wiki:Cyanobacteria"
+      ]
+    },
+    {
+      "id": "wiki:Photosynthesis#Overview",
+      "title": "Photosynthesis: Overview",
+      "prerequisites": [
+        "wiki:Photosynthesis"
+      ]
+    },
+    {
+      "id": "wiki:Photosynthesis#Light-independent_reactions",
+      "title": "Photosynthesis: Light-independent reactions",
+      "prerequisites": [
+        "wiki:Photosynthesis"
+      ]
+    },
+    {
+      "id": "wiki:Photosynthesis#Photosynthetic_membranes_and_organelles",
+      "title": "Photosynthesis: Photosynthetic membranes and organelles",
+      "prerequisites": [
+        "wiki:Photosynthesis"
+      ]
+    },
+    {
+      "id": "wiki:Photosynthesis#Efficiency",
+      "title": "Photosynthesis: Efficiency",
+      "prerequisites": [
+        "wiki:Photosynthesis"
+      ]
+    },
+    {
+      "id": "wiki:Photosynthesis#Light-dependent_reactions",
+      "title": "Photosynthesis: Light-dependent reactions",
+      "prerequisites": [
+        "wiki:Photosynthesis"
+      ]
+    },
+    {
+      "id": "wiki:Photosynthesis#Evolution",
+      "title": "Photosynthesis: Evolution",
+      "prerequisites": [
+        "wiki:Photosynthesis"
+      ]
+    }
+  ]
+}
