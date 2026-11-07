@@ -37,7 +37,7 @@ jobs:
 
       - name: Install tools
         working-directory: .anneal
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --frozen-lockfile --filter "@anneal/cli..."
 
       - name: Validate decks
         working-directory: .anneal
