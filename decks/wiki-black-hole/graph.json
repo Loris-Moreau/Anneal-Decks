@@ -1,0 +1,46 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Black_hole",
+      "title": "Black hole",
+      "prerequisites": [
+        "wiki:Astronomical_body",
+        "wiki:Compact_object",
+        "wiki:Gravity",
+        "wiki:Light",
+        "wiki:Albert_Einstein",
+        "wiki:General_relativity",
+        "wiki:Curvature_of_spacetime",
+        "wiki:Mass"
+      ]
+    },
+    {
+      "id": "wiki:Black_hole#Properties",
+      "title": "Black hole: Properties",
+      "prerequisites": [
+        "wiki:Black_hole"
+      ]
+    },
+    {
+      "id": "wiki:Black_hole#Evolution",
+      "title": "Black hole: Evolution",
+      "prerequisites": [
+        "wiki:Black_hole"
+      ]
+    },
+    {
+      "id": "wiki:Black_hole#Classification",
+      "title": "Black hole: Classification",
+      "prerequisites": [
+        "wiki:Black_hole"
+      ]
+    },
+    {
+      "id": "wiki:Black_hole#Observational_evidence",
+      "title": "Black hole: Observational evidence",
+      "prerequisites": [
+        "wiki:Black_hole"
+      ]
+    }
+  ]
+}
