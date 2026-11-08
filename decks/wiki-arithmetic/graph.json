@@ -1,0 +1,46 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Arithmetic",
+      "title": "Arithmetic",
+      "prerequisites": [
+        "wiki:Mathematics",
+        "wiki:Addition",
+        "wiki:Subtraction",
+        "wiki:Multiplication",
+        "wiki:Division_(mathematics)",
+        "wiki:Exponentiation",
+        "wiki:Nth_root",
+        "wiki:Logarithms"
+      ]
+    },
+    {
+      "id": "wiki:Arithmetic#Operations",
+      "title": "Arithmetic: Operations",
+      "prerequisites": [
+        "wiki:Arithmetic"
+      ]
+    },
+    {
+      "id": "wiki:Arithmetic#Types",
+      "title": "Arithmetic: Types",
+      "prerequisites": [
+        "wiki:Arithmetic"
+      ]
+    },
+    {
+      "id": "wiki:Arithmetic#Numbers",
+      "title": "Arithmetic: Numbers",
+      "prerequisites": [
+        "wiki:Arithmetic"
+      ]
+    },
+    {
+      "id": "wiki:Arithmetic#In_various_fields",
+      "title": "Arithmetic: In various fields",
+      "prerequisites": [
+        "wiki:Arithmetic"
+      ]
+    }
+  ]
+}

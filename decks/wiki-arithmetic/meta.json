@@ -1,0 +1,18 @@
+{
+  "id": "wiki-arithmetic",
+  "title": "Arithmetic (Wikipedia)",
+  "source": {
+    "kind": "wikipedia",
+    "ref": "Arithmetic",
+    "revision": "1382155750"
+  },
+  "license": "CC-BY-SA-4.0",
+  "localOnly": false,
+  "language": "en",
+  "pipelineVersion": "wiki-prepass-0.1+llm",
+  "generation": {
+    "model": "gemini-3.5-flash",
+    "promptVersion": "rubric-cards-1"
+  },
+  "sha256": "62a0b805c79731ed3fc39c867b11ba9bfbc0d0f8f5b1c6c9e6c453bac5a23d2f"
+}
