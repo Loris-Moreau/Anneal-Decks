@@ -1,0 +1,18 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Accounting",
+      "title": "Accounting",
+      "prerequisites": [
+        "wiki:Economic_entity",
+        "wiki:Business",
+        "wiki:Corporation",
+        "wiki:Investor",
+        "wiki:Creditor",
+        "wiki:Management",
+        "wiki:Regulatory_agency",
+        "wiki:Accountant"
+      ]
+    }
+  ]
+}

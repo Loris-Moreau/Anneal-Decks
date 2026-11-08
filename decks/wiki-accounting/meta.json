@@ -1,0 +1,18 @@
+{
+  "id": "wiki-accounting",
+  "title": "Accounting (Wikipedia)",
+  "source": {
+    "kind": "wikipedia",
+    "ref": "Accounting",
+    "revision": "1381773393"
+  },
+  "license": "CC-BY-SA-4.0",
+  "localOnly": false,
+  "language": "en",
+  "pipelineVersion": "wiki-prepass-0.1+llm",
+  "generation": {
+    "model": "gemini-3.5-flash",
+    "promptVersion": "rubric-cards-1"
+  },
+  "sha256": "ef4ca29e0ad18a10a0e6c5d033b4e588cd1fd8f187a0beea31b53120fde04459"
+}
