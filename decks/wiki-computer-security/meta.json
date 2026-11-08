@@ -1,0 +1,18 @@
+{
+  "id": "wiki-computer-security",
+  "title": "Computer security (Wikipedia)",
+  "source": {
+    "kind": "wikipedia",
+    "ref": "Computer security",
+    "revision": "1384254166"
+  },
+  "license": "CC-BY-SA-4.0",
+  "localOnly": false,
+  "language": "en",
+  "pipelineVersion": "wiki-prepass-0.1+llm",
+  "generation": {
+    "model": "gemini-3.5-flash",
+    "promptVersion": "rubric-cards-1"
+  },
+  "sha256": "b154a9f9b3f149931cda520365740a8364487417317763aa60302b06f58fcc85"
+}

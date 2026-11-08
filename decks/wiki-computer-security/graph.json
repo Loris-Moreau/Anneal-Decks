@@ -1,0 +1,32 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Computer_security",
+      "title": "Computer security",
+      "prerequisites": [
+        "wiki:Information_security",
+        "wiki:Computer_software",
+        "wiki:System",
+        "wiki:Computer_network",
+        "wiki:Threat_(security)",
+        "wiki:Computer_hardware",
+        "wiki:Software",
+        "wiki:Data_(computing)"
+      ]
+    },
+    {
+      "id": "wiki:Computer_security#Vulnerabilities_and_attacks",
+      "title": "Computer security: Vulnerabilities and attacks",
+      "prerequisites": [
+        "wiki:Computer_security"
+      ]
+    },
+    {
+      "id": "wiki:Computer_security#Systems_at_risk",
+      "title": "Computer security: Systems at risk",
+      "prerequisites": [
+        "wiki:Computer_security"
+      ]
+    }
+  ]
+}
