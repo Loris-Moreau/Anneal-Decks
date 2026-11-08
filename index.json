@@ -2,6 +2,40 @@
   "version": 1,
   "decks": [
     {
+      "id": "wiki-accounting",
+      "title": "Accounting (Wikipedia)",
+      "source": {
+        "kind": "wikipedia",
+        "ref": "Accounting",
+        "revision": "1381773393"
+      },
+      "license": "CC-BY-SA-4.0",
+      "language": "en",
+      "pipelineVersion": "wiki-prepass-0.1+llm",
+      "cardCount": 8,
+      "conceptCount": 1,
+      "bytes": 6925,
+      "sha256": "ef4ca29e0ad18a10a0e6c5d033b4e588cd1fd8f187a0beea31b53120fde04459",
+      "path": "decks/wiki-accounting"
+    },
+    {
+      "id": "wiki-arithmetic",
+      "title": "Arithmetic (Wikipedia)",
+      "source": {
+        "kind": "wikipedia",
+        "ref": "Arithmetic",
+        "revision": "1382155750"
+      },
+      "license": "CC-BY-SA-4.0",
+      "language": "en",
+      "pipelineVersion": "wiki-prepass-0.1+llm",
+      "cardCount": 30,
+      "conceptCount": 5,
+      "bytes": 21321,
+      "sha256": "62a0b805c79731ed3fc39c867b11ba9bfbc0d0f8f5b1c6c9e6c453bac5a23d2f",
+      "path": "decks/wiki-arithmetic"
+    },
+    {
       "id": "wiki-black-hole",
       "title": "Black hole (Wikipedia)",
       "source": {
@@ -19,6 +53,23 @@
       "path": "decks/wiki-black-hole"
     },
     {
+      "id": "wiki-computer-security",
+      "title": "Computer security (Wikipedia)",
+      "source": {
+        "kind": "wikipedia",
+        "ref": "Computer security",
+        "revision": "1384254166"
+      },
+      "license": "CC-BY-SA-4.0",
+      "language": "en",
+      "pipelineVersion": "wiki-prepass-0.1+llm",
+      "cardCount": 17,
+      "conceptCount": 3,
+      "bytes": 14354,
+      "sha256": "b154a9f9b3f149931cda520365740a8364487417317763aa60302b06f58fcc85",
+      "path": "decks/wiki-computer-security"
+    },
+    {
       "id": "wiki-kinetic-energy",
       "title": "Kinetic energy (Wikipedia)",
       "source": {
@@ -34,6 +85,23 @@
       "bytes": 4967,
       "sha256": "d8c6ed329017b4cf13df8f0ebf4647ef56c8f9089b9bba5971fe288301196870",
       "path": "decks/wiki-kinetic-energy"
+    },
+    {
+      "id": "wiki-management-of-attention-deficit-hyperactivity-disorder",
+      "title": "Management of attention deficit hyperactivity disorder (Wikipedia)",
+      "source": {
+        "kind": "wikipedia",
+        "ref": "Management of attention deficit hyperactivity disorder",
+        "revision": "1384383397"
+      },
+      "license": "CC-BY-SA-4.0",
+      "language": "en",
+      "pipelineVersion": "wiki-prepass-0.1+llm",
+      "cardCount": 9,
+      "conceptCount": 2,
+      "bytes": 8003,
+      "sha256": "b149d77101b8d877868d52983b70b165ee0e17a50379932fd8449ac04944a893",
+      "path": "decks/wiki-management-of-attention-deficit-hyperactivity-disorder"
     },
     {
       "id": "wiki-monte-carlo-algorithm",
