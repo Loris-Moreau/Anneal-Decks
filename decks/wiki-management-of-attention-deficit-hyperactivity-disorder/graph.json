@@ -1,0 +1,25 @@
+{
+  "concepts": [
+    {
+      "id": "wiki:Management_of_attention_deficit_hyperactivity_disorder",
+      "title": "Management of attention deficit hyperactivity disorder",
+      "prerequisites": [
+        "wiki:Evidence-based_medicine",
+        "wiki:ADHD",
+        "wiki:Food_and_Drug_Administration",
+        "wiki:American_Academy_of_Pediatrics",
+        "wiki:Methylphenidate",
+        "wiki:Stimulant",
+        "wiki:Dexmethylphenidate",
+        "wiki:Serdexmethylphenidate/dexmethylphenidate"
+      ]
+    },
+    {
+      "id": "wiki:Management_of_attention_deficit_hyperactivity_disorder#Medications",
+      "title": "Management of attention deficit hyperactivity disorder: Medications",
+      "prerequisites": [
+        "wiki:Management_of_attention_deficit_hyperactivity_disorder"
+      ]
+    }
+  ]
+}
